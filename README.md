@@ -18,7 +18,7 @@ I focus on writing clean, efficient code and solving meaningful problems.
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code
-![MvMxQ1a_gif (128×716)](https://github.com/user-attachments/assets/9bb94be5-461b-41ca-b77d-486df4e73219)
+![MvMxQ1a_gif (128×16)](https://github.com/user-attachments/assets/9bb94be5-461b-41ca-b77d-486df4e73219)
 
 ---
 
