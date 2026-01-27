@@ -35,5 +35,5 @@ I focus on writing clean, efficient code and solving meaningful problems.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/keshav-sahni-53bb20193/)
+- Email: keshavsahni01@gmail.com
