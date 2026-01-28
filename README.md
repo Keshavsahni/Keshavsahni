@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I enjoy building real-world projects using data science and full-stack technologies. 
+I enjoy building real-world projects using data science and full-stack technologies.<br> 
 I focus on writing clean, efficient code and solving meaningful problems.
 
 ---
