@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav</h1>
-<img align="right" alt="coding" width="400" src="https://pin.it/6Mju99uSn">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🎓 BCA Student  
 💻 Aspiring Data Scientist & Full-Stack Developer  
 📊 Passionate about AI, ML & scalable web applications  
