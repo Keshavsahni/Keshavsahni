@@ -14,10 +14,10 @@ I focus on writing clean, efficient code and solving meaningful problems.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, SQL, C
-- **Frontend:** React, Tailwind CSS
+- **Frontend:** React, Tailwind CSS![MvMxQ1a_gif (128×16)](https://github.com/user-attachments/assets/9bb94be5-461b-41ca-b77d-486df4e73219)
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code![MvMxQ1a_gif (128×16)](https://github.com/user-attachments/assets/9bb94be5-461b-41ca-b77d-486df4e73219)
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
